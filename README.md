@@ -1,6 +1,6 @@
 # Restaurant-Management-System-RN
 
-clone this repo
+clone this repo and
 Run these commands
 1. npm install
 
